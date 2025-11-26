@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**adithyasharma-code/adithyasharma-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+##adithyasharma-code/adithyasharma-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
