@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on designing AI chatbot for Teamcenter which helps end users, devloper, admins
 - 🌱 I’m currently learning advanced modules in PLM
 - 👯 I’m looking to collaborate on Teamcenter
 - 🤔 I’m looking for help with developing AI for PLM users
