@@ -52,7 +52,6 @@ I mostly work on **Teamcenter Support & Administration**, including workflow set
 ---
 
 ## 📂 Featured Work
-> *(You can pin repos on your GitHub profile to show them here!)*  
 - 🔧 System automation scripts  
 - 📁 Sample C++ utilities  
 - 🛠️ Tools for Teamcenter troubleshooting  
